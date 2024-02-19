@@ -27,7 +27,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/pravinkori/fem-product-preview-card-component)
+- Solution URL: [Github repo](https://github.com/pravinkori/fem-product-preview-card-component)
+- Live Site URL: [Github Pages](https://pravinkori.github.io/fem-product-preview-card-component/)
 
 ## My process
 
